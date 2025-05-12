@@ -1,6 +1,6 @@
-*Convolutional Neural Networks Applied to the Identification and Classification of Galaxies*
+**Convolutional Neural Networks Applied to the Identification and Classification of Galaxies**
 
-Abstract. Surveys are automated telescopes strategically positioned on
+Surveys are automated telescopes strategically positioned on
 the Earth’s surface or in space, designed to scan the sky to build a de-
 tailed catalog of the celestial bodies observed in their field of view. To-
 gether, these instruments generate terabytes of astronomical data, mak-
