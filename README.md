@@ -25,4 +25,4 @@ in the classification of astronomical data, but also highlighted the im-
 portance of choosing the model criteria and complementary techniques
 to optimize the classification process.
 
-Keywords: Astronomy · Convolutional Neural Networks · Galaxies.
+**Keywords**: Astronomy · Convolutional Neural Networks · Galaxies.
